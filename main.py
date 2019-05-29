@@ -6,3 +6,6 @@ import machine
 print('*********adding from pythonA************')
 print('*********this is a demo************')
 print('*********master adding**********')
+print('*********adding now**********')
+print('*********adding from master branch**********')
+print('*********adding from pythonD branch**********')
